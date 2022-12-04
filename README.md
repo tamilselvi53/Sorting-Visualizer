@@ -8,16 +8,16 @@ Red represents swapping or change in position.
 Green represents that element that found its position.
 
 Features:
-Speed of the algorithm 
-Size of the array
-Generate new array
+1. Speed of the algorithm
+2. Size of the array
+3. Generate new array
 
 Sorting algorithms:
-Bubble
-Insertion
-Selection
-Merge
-Quick
-Heap
+1. Bubble
+2. Insertion
+3. Selection
+4. Merge
+5. Quick
+6. Heap
 
 Website url: https://tamilselvi53.github.io/Sorting-Visualizer/
